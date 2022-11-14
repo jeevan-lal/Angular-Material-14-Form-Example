@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+    }
+  },
+  "exclude": [
+    "node_modules",
+    ".vscode",
+    "dist",
+    "utils"
+  ]
+}

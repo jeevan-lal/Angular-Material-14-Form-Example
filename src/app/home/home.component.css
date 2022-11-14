@@ -1,0 +1,21 @@
+.has-center {
+  text-align: center;
+}
+
+div.header {
+  padding-top: 50px;
+}
+
+.title {
+  font-size: 30px;
+  line-height: 3.125rem;
+  font-weight: 700 !important;
+}
+
+.subtitle {
+  font-weight: 300 !important;
+}
+
+ul {
+  list-style: none;
+}

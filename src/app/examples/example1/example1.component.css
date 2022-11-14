@@ -1,0 +1,8 @@
+.container {
+  padding: 10px 200px 0px 200px;
+  /* text-align: center; */
+}
+
+mat-form-field {
+  width: 100%;
+}
